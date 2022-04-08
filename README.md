@@ -1,3 +1,13 @@
+Forked by numindast from ldirko - my first fork and attempt at actual for real work on sketches in Arduino.
+
+TODO (wishlist):
+ a) Investigate ways to wire up small display to show the names of the patterns/palettes ldirko chose as they rotate
+   a1) using i2c?
+ b) possible to use jcoon's fastled webserver for wifi control?
+ c) possible to use rotary encoder, a la wled? maybe even RoenDi?
+
+~~~~~~~~~~~~~~
+
 This is firmware for Fibonacci 256 by Jason Coon with new and colorful effects.
 
 Video how it looks in real life: https://twitter.com/jasoncoon_/status/1449162673346781187?s=20 
